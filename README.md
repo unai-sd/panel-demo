@@ -18,3 +18,5 @@ pnpm dev
 ```
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the workflow.
+
+<!-- prueba de CI -->
